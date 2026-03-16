@@ -26,12 +26,12 @@ This project demonstrates an understanding of Go's `net/http` standard library, 
    ```bash
    cd health-api
    ```
-   2. Run server
+2. Run server
       ```bash
       go run main.go
       ```
-   3. The server will start on port 8080.
-   4. API Endpoints
+3. The server will start on port 8080.
+4. API Endpoints
 Get System Health
 GET /health
 
